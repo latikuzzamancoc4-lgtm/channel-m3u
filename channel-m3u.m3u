@@ -1,31 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+https://cors-anywhere.herokuapp.com/http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Fox Sports HD 🇧🇩
-http://84.17.50.102/fox/index.m3u8
+https://cors-anywhere.herokuapp.com/http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="ttps://shorturl.at/NPoFh" group-title="Sports",T Sports HD
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
+https://cors-anywhere.herokuapp.com/http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+https://cors-anywhere.herokuapp.com/http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
+https://cors-anywhere.herokuapp.com/http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 202
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+https://cors-anywhere.herokuapp.com/http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Fox Sports HD" group-title="FIFA World Cup 2026",Fox Sports HD
-http://84.17.50.102/fox/index.m3u8
+https://cors-anywhere.herokuapp.com/http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="Bein Sports" group-title="FIFA World Cup 2026",Bein Sports
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+https://cors-anywhere.herokuapp.com/http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 
 #EXTINF:-1 tvg-name="Bein Sports Direct" group-title="FIFA World Cup 2026",Bein Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
