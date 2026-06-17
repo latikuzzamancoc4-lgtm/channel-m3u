@@ -1,41 +1,54 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 tvg-id="Fifa Live" group-title="Sports",Fifa 1
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#EXTINF:-1 ,T sports 1 (144,360,480,720,1080)
+http://198.195.239.50:8095/tsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://cors-anywhere.herokuapp.com/http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Caze TV BR (144,360,480,720,1080)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 ,Caze TV (144,360,480,720,1080)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh",Fox Sports HD 🇧🇩
-https://cors-anywhere.herokuapp.com/http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 ,Football World Cup 2026 (144,360,480,720,1080)
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
 
-#EXTINF:-1 tvg-logo="ttps://shorturl.at/NPoFh" group-title="Sports",T Sports HD
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+#EXTINF:-1 ,TyC SPORTS (144,360,480,720,1080)
+http://190.108.93.75:8001/play/a05d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://cors-anywhere.herokuapp.com/http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FIFA 1 (144,360,480,720,1080)
+http://9851659.qd08v.cc/live/Fouaad19/rUkaCiuG/1412587.ts?token=ShoJV0NcEgMVDABbAQQPAwJXVlYHAgRcUQEBB1wFBFIEWlRTBlICXVMaSUEXREVVBwg6DFUXC1UHBAJTAAJOR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAAlSBBwWQFBTGl9BVQQCB1JQU0cdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBBJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1xcAgITSBFWXxNWQRAcEwJDdHQWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEUVVUAwwBVxFI
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/CBQJZ"group-title="FIFA World Cup 2026" group-title="",TYC Sports HD
-https://cors-anywhere.herokuapp.com/http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+#EXTINF:-1,Fox Sports 1 4K (144,360,480,720,1080)
+http://9851659.j15m.cc/live/Fouaad19/rUkaCiuG/1414185.ts?token=ShoJV0NcEgMVD1xRVQcABQBXAF0AVAdVBQNUUV4BWlAECARTBVZSDwAaSUEXREVVBwg6DFUXC1UHBARXAABOR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAAtXDxwWQFBTGl9BUAQPB1JXR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEV1xVAxcdRlBaRQhMRxtHCxojchIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJUXFZcAgEHRk4=
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 2026
-https://cors-anywhere.herokuapp.com/http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Fox Sports 1 HD (144,360,480,720,1080)
+http://9851659.m10vn.cc/live/Fouaad19/rUkaCiuG/1410736.ts?token=ShoJV0NcEgMVAFNVAAMCBl5TUFUBBwkCA1cEVAsGWlEJDlBTVgYGCgQaSUEXREVVBwg6DFUXC1UHBABRCwNOR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAA9YBhwWQFBTGl9BUwcDB15RR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEVlRWBBcdRlBaRQhMRxtHCxojchIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJeUFFRAgATGQ==
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Football World Cup 2026",Football World Cup 202
-https://cors-anywhere.herokuapp.com/http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Main FS1 (144,360,480,720,1080)
+http://sjathnff.lazdns.com/live/Fouaad19/rUkaCiuG/1410736.ts
 
-#EXTINF:-1 tvg-name="Fox Sports HD" group-title="FIFA World Cup 2026",Fox Sports HD
-https://cors-anywhere.herokuapp.com/http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1,FIFA 3 (144,360,480,720,1080)
+http://9851659.j11m.cc/live/Fouaad19/rUkaCiuG/1416290.ts?token=ShoJV0NcEgMVAAMCUggABlIEV10HVgEFVQEHUg0HBANTCFMAAgADXA8aSUEXREVVBwg6DFUXC1UHBAZUAQVOR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAAxXBRwWQFBTGl9BVQcCB1NWVEcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1dUCAEJRh8XUwlNWxYXSBpbFHJwEhUVXR0XAV5EWQkLR18TQUJGHxdZFWdHBxZFSgRXXVFCGw0aVUFIElpRHjoGCl9bVAdHXF8ISxdYRwAaTRRdW15QQ1cXPBRZUxJcR1dWAwwAUgoXTQ==
 
-#EXTINF:-1 tvg-name="Bein Sports" group-title="FIFA World Cup 2026",Bein Sports
-https://cors-anywhere.herokuapp.com/http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1,FIFA 4 (144,360,480,720,1080)
+http://9851659.j12m.cc/live/Fouaad19/rUkaCiuG/1411558.ts?token=ShoJV0NcEgMVDQNQBwRTUVUEXQQFDAUBAgIGBwAEUV0DWQIOCQUACFQaSUEXREVVBwg6DFUXC1UHBAFTDQ1OR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAAxYBBwWQFBTGl9BVwcBBlBQUUcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1ZUCAYTSBFWXxNWQRAcEwJDdHQWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEUFdRBw0GRk4=
 
-#EXTINF:-1 tvg-name="Bein Sports Direct" group-title="FIFA World Cup 2026",Bein Sports Direct
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,FIFA 5 (144,360,480,720,1080)
+http://9851659.qd08v.cc/live/Fouaad19/rUkaCiuG/1412587.ts?token=ShoJV0NcEgMVDgNRVlYAVlcAUlQEAABWBFNUV1oDUwRQDVdSUgVUXFQaSUEXREVVBwg6DFUXC1UHBAJTAAJOR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAA1XBxwWQFBTGl9BVQQABVNRXEcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBBJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1FQAAUTSBFWXxNWQRAcEwJDdHQWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEUVVUAwwBVxFI
 
-#EXTINF:-1 tvg-name="D Sports" group-title="FIFA World Cup 2026",D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1,FIFA 6 (144,360,480,720,1080)
+http://sjathnff.lazdns.com/live/Fouaad19/rUkaCiuG/1412587.ts
 
-#EXTINF:-1 tvg-name="Bein Sports Direct" group-title="FIFA World Cup 2026",Bein Sports Direct
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,FIFA 7 (144,360,480,720,1080)
+http://sjathnff.lazdns.com/live/Fouaad19/rUkaCiuG/1412587.ts
+
+#EXTINF:-1,FIFA 8 (Link 1) (144,360,480,720,1080)
+http://9851659.m08vn.cc/live/Fouaad19/rUkaCiuG/1411604.ts?token=ShoJV0NcEgMVDQAAAlIPBAVVUwACBgFSBQRRVVsNA1xQAVFTBwAGX1MaSUEXREVVBwg6DFUXC1UHBAFQCAFOR0RLBERvXVQbDRpcW1EBAQVfR0lHRVxcAREPAVEABFRcAABUBhwWQFBTGl9BVgMGCFFcUEcdF1QcR1BCCFlZPQFUTghVVRYKV0JUCU9GX1lvAgAIBF9RE14RBRJKGlwRFRMCD0NcWBwbVVEREQVEUhJcR1RQBgwTSBFWXxNWQRAcEwJDdHQWHBtSQBEGCkNeXwhHX0dFRhNIEVxDOUpQERFDXQBbVUYSAxUIR09GXVZIOQYKC19QUhBaWl4VGg9AVBMUQ1tfWllNWEo6Ew1UFQpEVFZQCQwJXRFI
+
+#EXTINF:-1,FIFA 8 (Link 2) (144,360,480,720,1080)
+http://sjathnff.lazdns.com/live/Fouaad19/rUkaCiuG/1411604.ts
+
+#EXTINF:-1,FIFA M6 (Link 1) (144,360,480,720,1080)
+http://9851659.j02m.cc/live/Fouaad19/rUkaCiuG/154386.ts?token=ShoJV0NcEgMVCwFRVQJUBANXXFVQDQAFAQMCVQ4MUlxVC1kBVFJTCAIaSUEXREVVBwg6DFUXC1UGAQNeDhlAEEJdE2lZUBIDFQFdVlUGAglESUcRWFhURgkEB14JA1tUCAlRGhJEWV0VAkdSXAECBFVSR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YDFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEV11SBxcdRlBaRQhMRxtHCxojchIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJXXFRTAxdM
+
+#EXTINF:-1,FIFA M6 (Link 2) (144,360,480,720,1080)
+http://sjathnff.lazdns.com/live/Fouaad19/rUkaCiuG/154386.ts
